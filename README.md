@@ -21,3 +21,7 @@ Whenever an email arrives with an attachment, it is placed in your chosen folder
 ### Notes
 - Designed for personal or professional inboxes.  
 - Can be adapted for SharePoint or Teams document libraries.
+
+
+<img width="1073" height="1408" alt="image" src="https://github.com/user-attachments/assets/865d6c9d-1de8-4787-bf3c-7e7e14f43a57" />
+<p align="right"><small><i>Flow overview</i></small></p>
